@@ -1,3 +1,4 @@
 [submodule "DbConnector"]
 	path = DbConnector
 	url = https://github.com/Viktor-Yegay/DbConnector.git
+	branch = stable
